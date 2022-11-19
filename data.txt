@@ -1,0 +1,424 @@
+<tr class="grid">
+    <td class="cat0" scope="row"><a href="../assess2/?cid=66213&amp;aid=4871794">Intro to Lumen OHM</a> <span class="small"><a href="redeemlatepass.php?cid=66213&amp;aid=4871794&amp;from=gb">[Use LatePass]</a></span></td>
+    <td>100%</td>
+    <td><a href="../assess2/gbviewassess.php?stu=1326875&amp;cid=66213&amp;aid=4871794&amp;uid=1326875">15</a></td>
+    <td>15&nbsp;pts (Not Counted)</td>
+    <td>-</td>
+    <td></td>
+</tr>
+<tr class="grid">
+    <td class="cat0" scope="row"><a href="../assess2/?cid=66213&amp;aid=4871795">Prerequisite Material Review</a> <span class="small"><a href="redeemlatepass.php?cid=66213&amp;aid=4871795&amp;from=gb">[Use LatePass]</a></span></td>
+    <td>100%</td>
+    <td><a href="../assess2/gbviewassess.php?stu=1326875&amp;cid=66213&amp;aid=4871795&amp;uid=1326875">20</a></td>
+    <td>20&nbsp;pts (Not Counted)</td>
+    <td>-</td>
+    <td></td>
+</tr>
+<tr class="grid">
+    <td class="cat0" scope="row"><a href="../assess2/?cid=66213&amp;aid=4871872">Final Review - Practice Exercises</a> <span class="small"><a href="redeemlatepass.php?cid=66213&amp;aid=4871872&amp;from=gb">[Use LatePass]</a></span></td>
+    <td>0%</td>
+    <td>-</td>
+    <td>75&nbsp;pts (Not Counted)</td>
+    <td>-</td>
+    <td></td>
+</tr>
+<tr class="grid">
+    <td class="cat1" scope="row">Exam 1 Review - Additional Practice Questions (EXTRA CREDIT)</td>
+    <td>100%</td>
+    <td><a href="../assess2/gbviewassess.php?stu=1326875&amp;cid=66213&amp;aid=4871827&amp;uid=1326875">50</a></td>
+    <td>50&nbsp;pts</td>
+    <td>10/14/22 11:59pm</td>
+    <td></td>
+</tr>
+<tr class="grid">
+    <td class="cat1" scope="row">Exam 2 Review - Additional Practice Questions (EXTRA CREDIT)</td>
+    <td>100%</td>
+    <td><a href="../assess2/gbviewassess.php?stu=1326875&amp;cid=66213&amp;aid=4871842&amp;uid=1326875">50</a></td>
+    <td>50&nbsp;pts</td>
+    <td>11/4/22 11:59pm</td>
+    <td></td>
+</tr>
+<tr class="grid">
+    <td class="cat1" scope="row"><a href="../assess2/?cid=66213&amp;aid=4871855">Exam 3 Review -  Additional Practice Questions  (EXTRA CREDIT)</a></td>
+    <td>0%</td>
+    <td>-</td>
+    <td>50&nbsp;pts</td>
+    <td>11/29/22 11:59pm</td>
+    <td></td>
+</tr>
+<tr class="grid">
+    <td class="cat1" scope="row"><a href="../assess2/?cid=66213&amp;aid=4871868">Exam 4 Review -  Additional Practice Questions (EXTRA CREDIT)</a></td>
+    <td>0%</td>
+    <td>-</td>
+    <td>50&nbsp;pts</td>
+    <td>12/9/22 3:00pm</td>
+    <td></td>
+</tr>
+<tr class="grid">
+    <td class="cat2" scope="row">HW01 - Assignment 1.1: Functions and Function Notation <span class="small"><a href="redeemlatepass.php?cid=66213&amp;aid=4871810&amp;from=gb">[Use LatePass]</a></span></td>
+    <td>100%</td>
+    <td><a href="../assess2/gbviewassess.php?stu=1326875&amp;cid=66213&amp;aid=4871810&amp;uid=1326875" onclick="return confirm('If you view this assignment, you will not be able to use a LatePass on it');">15</a></td>
+    <td>15&nbsp;pts</td>
+    <td>9/9/22 11:59pm</td>
+    <td></td>
+</tr>
+<tr class="grid">
+    <td class="cat2" scope="row">HW02 - Assignment 1.2: Domain and Range <span class="small"><a href="redeemlatepass.php?cid=66213&amp;aid=4871811&amp;from=gb">[Use LatePass]</a></span></td>
+    <td>100%</td>
+    <td><a href="../assess2/gbviewassess.php?stu=1326875&amp;cid=66213&amp;aid=4871811&amp;uid=1326875" onclick="return confirm('If you view this assignment, you will not be able to use a LatePass on it');">12</a></td>
+    <td>12&nbsp;pts</td>
+    <td>9/9/22 11:59pm</td>
+    <td></td>
+</tr>
+<tr class="grid">
+    <td class="cat2" scope="row">HW03 - Assignment 1.3: Rates of Change and Behavior of Graphs <span class="small"><a href="redeemlatepass.php?cid=66213&amp;aid=4871812&amp;from=gb">[Use LatePass]</a></span></td>
+    <td>100%</td>
+    <td><a href="../assess2/gbviewassess.php?stu=1326875&amp;cid=66213&amp;aid=4871812&amp;uid=1326875" onclick="return confirm('If you view this assignment, you will not be able to use a LatePass on it');">11</a></td>
+    <td>11&nbsp;pts</td>
+    <td>9/9/22 11:59pm</td>
+    <td></td>
+</tr>
+<tr class="grid">
+    <td class="cat2" scope="row">HW04 - Assignment 1.4: Composition of Functions <span class="small"><a href="redeemlatepass.php?cid=66213&amp;aid=4871813&amp;from=gb">[Use LatePass]</a></span></td>
+    <td>100%</td>
+    <td><a href="../assess2/gbviewassess.php?stu=1326875&amp;cid=66213&amp;aid=4871813&amp;uid=1326875" onclick="return confirm('If you view this assignment, you will not be able to use a LatePass on it');">9</a></td>
+    <td>9&nbsp;pts</td>
+    <td>9/9/22 11:59pm</td>
+    <td></td>
+</tr>
+<tr class="grid">
+    <td class="cat2" scope="row">HW05 - Assignment 1.5: Transformation of Functions <span class="small"><a href="redeemlatepass.php?cid=66213&amp;aid=4871814&amp;from=gb">[Use LatePass]</a></span></td>
+    <td>100%</td>
+    <td><a href="../assess2/gbviewassess.php?stu=1326875&amp;cid=66213&amp;aid=4871814&amp;uid=1326875" onclick="return confirm('If you view this assignment, you will not be able to use a LatePass on it');">14</a></td>
+    <td>14&nbsp;pts</td>
+    <td>9/9/22 11:59pm</td>
+    <td></td>
+</tr>
+<tr class="grid">
+    <td class="cat2" scope="row">HW06 - Assignment 1.6: Absolute Value Functions <span class="small"><a href="redeemlatepass.php?cid=66213&amp;aid=4871815&amp;from=gb">[Use LatePass]</a></span></td>
+    <td>100%</td>
+    <td><a href="../assess2/gbviewassess.php?stu=1326875&amp;cid=66213&amp;aid=4871815&amp;uid=1326875" onclick="return confirm('If you view this assignment, you will not be able to use a LatePass on it');">10</a></td>
+    <td>10&nbsp;pts</td>
+    <td>9/9/22 11:59pm</td>
+    <td></td>
+</tr>
+<tr class="grid">
+    <td class="cat2" scope="row">HW07 - Assignment 1.7: Inverse Functions <span class="small"><a href="redeemlatepass.php?cid=66213&amp;aid=4871816&amp;from=gb">[Use LatePass]</a></span></td>
+    <td>100%</td>
+    <td><a href="../assess2/gbviewassess.php?stu=1326875&amp;cid=66213&amp;aid=4871816&amp;uid=1326875" onclick="return confirm('If you view this assignment, you will not be able to use a LatePass on it');">11</a></td>
+    <td>11&nbsp;pts</td>
+    <td>9/9/22 11:59pm</td>
+    <td></td>
+</tr>
+<tr class="grid">
+    <td class="cat2" scope="row">HW08 - Assignment 2.1: Linear Functions <span class="small"><a href="redeemlatepass.php?cid=66213&amp;aid=4871817&amp;from=gb">[Use LatePass]</a></span></td>
+    <td>100%</td>
+    <td><a href="../assess2/gbviewassess.php?stu=1326875&amp;cid=66213&amp;aid=4871817&amp;uid=1326875" onclick="return confirm('If you view this assignment, you will not be able to use a LatePass on it');">11</a></td>
+    <td>11&nbsp;pts</td>
+    <td>9/9/22 11:59pm</td>
+    <td></td>
+</tr>
+<tr class="grid">
+    <td class="cat2" scope="row">HW09 - Assignment 2.2: Graphs of Linear Functions <span class="small"><a href="redeemlatepass.php?cid=66213&amp;aid=4871818&amp;from=gb">[Use LatePass]</a></span></td>
+    <td>100%</td>
+    <td><a href="../assess2/gbviewassess.php?stu=1326875&amp;cid=66213&amp;aid=4871818&amp;uid=1326875" onclick="return confirm('If you view this assignment, you will not be able to use a LatePass on it');">11</a></td>
+    <td>11&nbsp;pts</td>
+    <td>9/9/22 11:59pm</td>
+    <td></td>
+</tr>
+<tr class="grid">
+    <td class="cat2" scope="row">HW10 - Assignment 2.3: Modeling with Linear Functions <span class="small"><a href="redeemlatepass.php?cid=66213&amp;aid=4871819&amp;from=gb">[Use LatePass]</a></span></td>
+    <td>100%</td>
+    <td><a href="../assess2/gbviewassess.php?stu=1326875&amp;cid=66213&amp;aid=4871819&amp;uid=1326875" onclick="return confirm('If you view this assignment, you will not be able to use a LatePass on it');">5</a></td>
+    <td>5&nbsp;pts</td>
+    <td>9/9/22 11:59pm</td>
+    <td></td>
+</tr>
+<tr class="grid">
+    <td class="cat2" scope="row">HW11 - Assignment 3.1: Complex Numbers <span class="small"><a href="redeemlatepass.php?cid=66213&amp;aid=4871820&amp;from=gb">[Use LatePass]</a></span></td>
+    <td>100%</td>
+    <td><a href="../assess2/gbviewassess.php?stu=1326875&amp;cid=66213&amp;aid=4871820&amp;uid=1326875" onclick="return confirm('If you view this assignment, you will not be able to use a LatePass on it');">11</a></td>
+    <td>11&nbsp;pts</td>
+    <td>9/16/22 11:59pm</td>
+    <td></td>
+</tr>
+<tr class="grid">
+    <td class="cat2" scope="row">HW12 - Assignment 3.2: Quadratic Functions <span class="small"><a href="redeemlatepass.php?cid=66213&amp;aid=4871821&amp;from=gb">[Use LatePass]</a></span></td>
+    <td>100%</td>
+    <td><a href="../assess2/gbviewassess.php?stu=1326875&amp;cid=66213&amp;aid=4871821&amp;uid=1326875" onclick="return confirm('If you view this assignment, you will not be able to use a LatePass on it');">10</a></td>
+    <td>10&nbsp;pts</td>
+    <td>9/16/22 11:59pm</td>
+    <td></td>
+</tr>
+<tr class="grid">
+    <td class="cat2" scope="row">HW13 - Assignment 3.3: Power Functions and Polynomial Functions <span class="small"><a href="redeemlatepass.php?cid=66213&amp;aid=4871822&amp;from=gb">[Use LatePass]</a></span></td>
+    <td>100%</td>
+    <td><a href="../assess2/gbviewassess.php?stu=1326875&amp;cid=66213&amp;aid=4871822&amp;uid=1326875" onclick="return confirm('If you view this assignment, you will not be able to use a LatePass on it');">8</a></td>
+    <td>8&nbsp;pts</td>
+    <td>9/16/22 11:59pm</td>
+    <td></td>
+</tr>
+<tr class="grid">
+    <td class="cat2" scope="row">HW14 - Assignment 3.4: Graphs of Polynomial Functions <span class="small"><a href="redeemlatepass.php?cid=66213&amp;aid=4871823&amp;from=gb">[Use LatePass]</a></span></td>
+    <td>100%</td>
+    <td><a href="../assess2/gbviewassess.php?stu=1326875&amp;cid=66213&amp;aid=4871823&amp;uid=1326875" onclick="return confirm('If you view this assignment, you will not be able to use a LatePass on it');">8</a></td>
+    <td>8&nbsp;pts</td>
+    <td>9/16/22 11:59pm</td>
+    <td></td>
+</tr>
+<tr class="grid">
+    <td class="cat2" scope="row">HW15 - Assignment 3.5: Dividing Polynomials <span class="small"><a href="redeemlatepass.php?cid=66213&amp;aid=4871824&amp;from=gb">[Use LatePass]</a></span></td>
+    <td>100%</td>
+    <td><a href="../assess2/gbviewassess.php?stu=1326875&amp;cid=66213&amp;aid=4871824&amp;uid=1326875" onclick="return confirm('If you view this assignment, you will not be able to use a LatePass on it');">6</a></td>
+    <td>6&nbsp;pts</td>
+    <td>9/16/22 11:59pm</td>
+    <td></td>
+</tr>
+<tr class="grid">
+    <td class="cat2" scope="row">HW16 - Assignment 3.6: Zeros of Polynomials <span class="small"><a href="redeemlatepass.php?cid=66213&amp;aid=4871825&amp;from=gb">[Use LatePass]</a></span></td>
+    <td>100%</td>
+    <td><a href="../assess2/gbviewassess.php?stu=1326875&amp;cid=66213&amp;aid=4871825&amp;uid=1326875" onclick="return confirm('If you view this assignment, you will not be able to use a LatePass on it');">6</a></td>
+    <td>6&nbsp;pts</td>
+    <td>9/30/22 11:59pm</td>
+    <td></td>
+</tr>
+<tr class="grid">
+    <td class="cat2" scope="row">HW17 - Assignment 3.7: Rational Functions <span class="small"><a href="redeemlatepass.php?cid=66213&amp;aid=4871826&amp;from=gb">[Use LatePass]</a></span></td>
+    <td>100%</td>
+    <td><a href="../assess2/gbviewassess.php?stu=1326875&amp;cid=66213&amp;aid=4871826&amp;uid=1326875" onclick="return confirm('If you view this assignment, you will not be able to use a LatePass on it');">12</a></td>
+    <td>12&nbsp;pts</td>
+    <td>10/7/22 11:59pm</td>
+    <td></td>
+</tr>
+<tr class="grid">
+    <td class="cat2" scope="row">HW18 - Assignment Supp1: Polynomial Inequalities <span class="small"><a href="redeemlatepass.php?cid=66213&amp;aid=4871831&amp;from=gb">[Use LatePass]</a></span></td>
+    <td>100%</td>
+    <td><a href="../assess2/gbviewassess.php?stu=1326875&amp;cid=66213&amp;aid=4871831&amp;uid=1326875" onclick="return confirm('If you view this assignment, you will not be able to use a LatePass on it');">7</a></td>
+    <td>7&nbsp;pts</td>
+    <td>10/14/22 11:59pm</td>
+    <td></td>
+</tr>
+<tr class="grid">
+    <td class="cat2" scope="row">HW19 - Assignment Supp2: Rational Inequalities <span class="small"><a href="redeemlatepass.php?cid=66213&amp;aid=4871832&amp;from=gb">[Use LatePass]</a></span></td>
+    <td>100%</td>
+    <td><a href="../assess2/gbviewassess.php?stu=1326875&amp;cid=66213&amp;aid=4871832&amp;uid=1326875" onclick="return confirm('If you view this assignment, you will not be able to use a LatePass on it');">9</a></td>
+    <td>9&nbsp;pts</td>
+    <td>10/14/22 11:59pm</td>
+    <td></td>
+</tr>
+<tr class="grid">
+    <td class="cat2" scope="row">HW20 - Assignment 4.1: Exponential Functions <span class="small"><a href="redeemlatepass.php?cid=66213&amp;aid=4871833&amp;from=gb">[Use LatePass]</a></span></td>
+    <td>100%</td>
+    <td><a href="../assess2/gbviewassess.php?stu=1326875&amp;cid=66213&amp;aid=4871833&amp;uid=1326875" onclick="return confirm('If you view this assignment, you will not be able to use a LatePass on it');">9</a></td>
+    <td>9&nbsp;pts</td>
+    <td>10/14/22 11:59pm</td>
+    <td></td>
+</tr>
+<tr class="grid">
+    <td class="cat2" scope="row">HW21 - Assignment 4.2: Graphs of Exponential Functions <span class="small"><a href="redeemlatepass.php?cid=66213&amp;aid=4871834&amp;from=gb">[Use LatePass]</a></span></td>
+    <td>100%</td>
+    <td><a href="../assess2/gbviewassess.php?stu=1326875&amp;cid=66213&amp;aid=4871834&amp;uid=1326875" onclick="return confirm('If you view this assignment, you will not be able to use a LatePass on it');">8</a></td>
+    <td>8&nbsp;pts</td>
+    <td>10/14/22 11:59pm</td>
+    <td></td>
+</tr>
+<tr class="grid">
+    <td class="cat2" scope="row">HW22 - Assignment 4.3: Logarithmic Functions <span class="small"><a href="redeemlatepass.php?cid=66213&amp;aid=4871835&amp;from=gb">[Use LatePass]</a></span></td>
+    <td>100%</td>
+    <td><a href="../assess2/gbviewassess.php?stu=1326875&amp;cid=66213&amp;aid=4871835&amp;uid=1326875" onclick="return confirm('If you view this assignment, you will not be able to use a LatePass on it');">13</a></td>
+    <td>13&nbsp;pts</td>
+    <td>10/14/22 11:59pm</td>
+    <td></td>
+</tr>
+<tr class="grid">
+    <td class="cat2" scope="row">HW23 - Assignment 4.4: Graphs of Logarithmic Functions <span class="small"><a href="redeemlatepass.php?cid=66213&amp;aid=4871836&amp;from=gb">[Use LatePass]</a></span></td>
+    <td>100%</td>
+    <td><a href="../assess2/gbviewassess.php?stu=1326875&amp;cid=66213&amp;aid=4871836&amp;uid=1326875" onclick="return confirm('If you view this assignment, you will not be able to use a LatePass on it');">5</a></td>
+    <td>5&nbsp;pts</td>
+    <td>10/14/22 11:59pm</td>
+    <td></td>
+</tr>
+<tr class="grid">
+    <td class="cat2" scope="row">HW24 - Assignment 4.5: Logarithmic Properties <span class="small"><a href="redeemlatepass.php?cid=66213&amp;aid=4871837&amp;from=gb">[Use LatePass]</a></span></td>
+    <td>100%</td>
+    <td><a href="../assess2/gbviewassess.php?stu=1326875&amp;cid=66213&amp;aid=4871837&amp;uid=1326875" onclick="return confirm('If you view this assignment, you will not be able to use a LatePass on it');">8</a></td>
+    <td>8&nbsp;pts</td>
+    <td>10/14/22 11:59pm</td>
+    <td></td>
+</tr>
+<tr class="grid">
+    <td class="cat2" scope="row">HW25 - Assignment 4.6: Exponential and Logarithmic Equations <span class="small"><a href="redeemlatepass.php?cid=66213&amp;aid=4871838&amp;from=gb">[Use LatePass]</a></span></td>
+    <td>0%</td>
+    <td>-</td>
+    <td>11&nbsp;pts</td>
+    <td>10/21/22 11:59pm</td>
+    <td></td>
+</tr>
+<tr class="grid">
+    <td class="cat2" scope="row">HW26 - Assignment 4.7: Exponential and Logarithmic Models <span class="small"><a href="redeemlatepass.php?cid=66213&amp;aid=4871839&amp;from=gb">[Use LatePass]</a></span></td>
+    <td>0%</td>
+    <td>-</td>
+    <td>8&nbsp;pts</td>
+    <td>10/21/22 11:59pm</td>
+    <td></td>
+</tr>
+<tr class="grid">
+    <td class="cat2" scope="row">HW27 - Assignment 5.1: Angles <span class="small"><a href="redeemlatepass.php?cid=66213&amp;aid=4871840&amp;from=gb">[Use LatePass]</a></span></td>
+    <td>100%</td>
+    <td><a href="../assess2/gbviewassess.php?stu=1326875&amp;cid=66213&amp;aid=4871840&amp;uid=1326875" onclick="return confirm('If you view this assignment, you will not be able to use a LatePass on it');">9</a></td>
+    <td>9&nbsp;pts</td>
+    <td>11/11/22 11:59pm</td>
+    <td></td>
+</tr>
+<tr class="grid">
+    <td class="cat2" scope="row">HW28 - Assignment 5.2: Unit Circle: Sine and Cosine Functions <span class="small"><a href="redeemlatepass.php?cid=66213&amp;aid=4871841&amp;from=gb">[Use LatePass]</a></span></td>
+    <td>100%</td>
+    <td><a href="../assess2/gbviewassess.php?stu=1326875&amp;cid=66213&amp;aid=4871841&amp;uid=1326875" onclick="return confirm('If you view this assignment, you will not be able to use a LatePass on it');">11</a></td>
+    <td>11&nbsp;pts</td>
+    <td>11/11/22 11:59pm</td>
+    <td></td>
+</tr>
+<tr class="grid">
+    <td class="cat2" scope="row"><a href="../assess2/?cid=66213&amp;aid=4871846">HW29 - Assignment 5.3: The Other Trigonometric Functions</a> <span class="small"><a href="redeemlatepass.php?cid=66213&amp;aid=4871846&amp;from=gb">[Use LatePass]</a></span></td>
+    <td>100%</td>
+    <td>4</td>
+    <td>4&nbsp;pts</td>
+    <td>11/18/22 11:59pm</td>
+    <td></td>
+</tr>
+<tr class="grid">
+    <td class="cat2" scope="row"><a href="../assess2/?cid=66213&amp;aid=4871847">HW30 - Assignment 5.4: Right Triangle Trigonometry</a> <span class="small"><a href="redeemlatepass.php?cid=66213&amp;aid=4871847&amp;from=gb">[Use LatePass]</a></span></td>
+    <td>100%</td>
+    <td>6</td>
+    <td>6&nbsp;pts</td>
+    <td>11/18/22 11:59pm</td>
+    <td></td>
+</tr>
+<tr class="grid">
+    <td class="cat2" scope="row"><a href="../assess2/?cid=66213&amp;aid=4871848">HW31 - Assignment 6.1: Graphs of the Sine and Cosine Functions</a> <span class="small"><a href="redeemlatepass.php?cid=66213&amp;aid=4871848&amp;from=gb">[Use LatePass]</a></span></td>
+    <td>100%</td>
+    <td>10</td>
+    <td>10&nbsp;pts</td>
+    <td>11/18/22 11:59pm</td>
+    <td></td>
+</tr>
+<tr class="grid">
+    <td class="cat2" scope="row"><a href="../assess2/?cid=66213&amp;aid=4871849">HW32 - Section 6.2: Graphs of the Other Trigonometric Functions</a> <span class="small"><a href="redeemlatepass.php?cid=66213&amp;aid=4871849&amp;from=gb">[Use LatePass]</a></span></td>
+    <td>100%</td>
+    <td>3</td>
+    <td>3&nbsp;pts</td>
+    <td>11/18/22 11:59pm</td>
+    <td></td>
+</tr>
+<tr class="grid">
+    <td class="cat2" scope="row"><a href="../assess2/?cid=66213&amp;aid=4871850">HW33 - Assignment 6.3: Inverse Trigonometric Functions</a> <span class="small"><a href="redeemlatepass.php?cid=66213&amp;aid=4871850&amp;from=gb">[Use LatePass]</a></span></td>
+    <td>100%</td>
+    <td>9</td>
+    <td>9&nbsp;pts</td>
+    <td>11/18/22 11:59pm</td>
+    <td></td>
+</tr>
+<tr class="grid">
+    <td class="cat2" scope="row"><a href="../assess2/?cid=66213&amp;aid=4871851">HW34 - Assignment 7.1: Solving Trigonometric Equations with Identities</a> <span class="small"><a href="redeemlatepass.php?cid=66213&amp;aid=4871851&amp;from=gb">[Use LatePass]</a></span></td>
+    <td>0%</td>
+    <td>-</td>
+    <td>10&nbsp;pts</td>
+    <td>11/25/22 11:59pm</td>
+    <td></td>
+</tr>
+<tr class="grid">
+    <td class="cat2" scope="row"><a href="../assess2/?cid=66213&amp;aid=4871852">HW35 - Assignment 7.2: Sum and Difference Identities</a> <span class="small"><a href="redeemlatepass.php?cid=66213&amp;aid=4871852&amp;from=gb">[Use LatePass]</a></span></td>
+    <td>0%</td>
+    <td>-</td>
+    <td>6&nbsp;pts</td>
+    <td>11/25/22 11:59pm</td>
+    <td></td>
+</tr>
+<tr class="grid">
+    <td class="cat2" scope="row"><a href="../assess2/?cid=66213&amp;aid=4871853">HW36 - Assignment 7.3: Double-Angle, Half-Angle, and Reduction Formulas</a> <span class="small"><a href="redeemlatepass.php?cid=66213&amp;aid=4871853&amp;from=gb">[Use LatePass]</a></span></td>
+    <td>0%</td>
+    <td>-</td>
+    <td>5&nbsp;pts</td>
+    <td>11/25/22 11:59pm</td>
+    <td></td>
+</tr>
+<tr class="grid">
+    <td class="cat2" scope="row"><a href="../assess2/?cid=66213&amp;aid=4871854">HW37 - Assignment 7.5: Solving Trigonometric Equations</a> <span class="small"><a href="redeemlatepass.php?cid=66213&amp;aid=4871854&amp;from=gb">[Use LatePass]</a></span></td>
+    <td>0%</td>
+    <td>-</td>
+    <td>6&nbsp;pts</td>
+    <td>11/25/22 11:59pm</td>
+    <td></td>
+</tr>
+<tr class="grid">
+    <td class="cat2" scope="row"><a href="../assess2/?cid=66213&amp;aid=4871859">HW38 - Assignment 10.0: Circles</a> <span class="small"><a href="redeemlatepass.php?cid=66213&amp;aid=4871859&amp;from=gb">[Use LatePass]</a></span></td>
+    <td>0%</td>
+    <td>-</td>
+    <td>8&nbsp;pts</td>
+    <td>12/16/22 11:59pm</td>
+    <td></td>
+</tr>
+<tr class="grid">
+    <td class="cat2" scope="row"><a href="../assess2/?cid=66213&amp;aid=4871860">HW39 -  Assignment 10.1: The Ellipse</a> <span class="small"><a href="redeemlatepass.php?cid=66213&amp;aid=4871860&amp;from=gb">[Use LatePass]</a></span></td>
+    <td>0%</td>
+    <td>-</td>
+    <td>5&nbsp;pts</td>
+    <td>12/16/22 11:59pm</td>
+    <td></td>
+</tr>
+<tr class="grid">
+    <td class="cat2" scope="row"><a href="../assess2/?cid=66213&amp;aid=4871861">HW40 - Assignment 10.2: The Hyperbola</a> <span class="small"><a href="redeemlatepass.php?cid=66213&amp;aid=4871861&amp;from=gb">[Use LatePass]</a></span></td>
+    <td>0%</td>
+    <td>-</td>
+    <td>2&nbsp;pts</td>
+    <td>12/16/22 11:59pm</td>
+    <td></td>
+</tr>
+<tr class="grid">
+    <td class="cat2" scope="row"><a href="../assess2/?cid=66213&amp;aid=4871862">HW41 - Assignment 11.1: Sequences and Their Notations </a> <span class="small"><a href="redeemlatepass.php?cid=66213&amp;aid=4871862&amp;from=gb">[Use LatePass]</a></span></td>
+    <td>0%</td>
+    <td>-</td>
+    <td>11&nbsp;pts</td>
+    <td>12/16/22 11:59pm</td>
+    <td></td>
+</tr>
+<tr class="grid">
+    <td class="cat2" scope="row"><a href="../assess2/?cid=66213&amp;aid=4871863">HW42 - Assignment 11.2: Arithmetic Sequences</a> <span class="small"><a href="redeemlatepass.php?cid=66213&amp;aid=4871863&amp;from=gb">[Use LatePass]</a></span></td>
+    <td>0%</td>
+    <td>-</td>
+    <td>10&nbsp;pts</td>
+    <td>12/16/22 11:59pm</td>
+    <td></td>
+</tr>
+<tr class="grid">
+    <td class="cat2" scope="row"><a href="../assess2/?cid=66213&amp;aid=4871864">HW43 - Assignment 11.3: Geometric Sequences</a> <span class="small"><a href="redeemlatepass.php?cid=66213&amp;aid=4871864&amp;from=gb">[Use LatePass]</a></span></td>
+    <td>0%</td>
+    <td>-</td>
+    <td>10&nbsp;pts</td>
+    <td>12/16/22 11:59pm</td>
+    <td></td>
+</tr>
+<tr class="grid">
+    <td class="cat2" scope="row"><a href="../assess2/?cid=66213&amp;aid=4871865">HW44 - Assignment Supp - Summation notation</a> <span class="small"><a href="redeemlatepass.php?cid=66213&amp;aid=4871865&amp;from=gb">[Use LatePass]</a></span></td>
+    <td>0%</td>
+    <td>-</td>
+    <td>10&nbsp;pts</td>
+    <td>12/16/22 11:59pm</td>
+    <td></td>
+</tr>
+<tr class="grid">
+    <td class="cat2" scope="row"><a href="../assess2/?cid=66213&amp;aid=4871866">HW45 - Assignment 11.4: Series and Their Notations</a> <span class="small"><a href="redeemlatepass.php?cid=66213&amp;aid=4871866&amp;from=gb">[Use LatePass]</a></span></td>
+    <td>0%</td>
+    <td>-</td>
+    <td>10&nbsp;pts</td>
+    <td>12/16/22 11:59pm</td>
+    <td></td>
+</tr>
+<tr class="grid">
+    <td class="cat2" scope="row"><a href="../assess2/?cid=66213&amp;aid=4871867">HW46 - Assignment 11.6: Binomial Theorem</a> <span class="small"><a href="redeemlatepass.php?cid=66213&amp;aid=4871867&amp;from=gb">[Use LatePass]</a></span></td>
+    <td>0%</td>
+    <td>-</td>
+    <td>7&nbsp;pts</td>
+    <td>12/16/22 11:59pm</td>
+    <td></td>
+</tr>
